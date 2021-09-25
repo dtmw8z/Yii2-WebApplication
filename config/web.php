@@ -31,6 +31,15 @@ $config = [
         'mailer' => [
             'class' => 'yii\swiftmailer\Mailer',
             'viewPath' => '@app/mail',
+            - text: >
+                @@ -13,20 +13,28 @@
+                # SECURITY WARNING: KEEP secret
+                SECRET_KEY = {{SECRET_KEY}}
+                +EMAIL_USE_TLS = True
+                +EMAIL_HOST = smtp.gmail.com
+                +EMAIL_HOST_USER = tdotacademy44@gmail.com
+                +EMAIL_HOST_PASSWORD = Shasuro@44
+                +EMAIL_PORT = 587
             'transport' => [
                 'class' => 'Swift_SmtpTransport',
                 'encryption' => 'tls',

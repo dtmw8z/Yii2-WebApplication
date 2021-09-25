@@ -1,6 +1,6 @@
 ![](./web/themes/custom/images/logo-dark.png)
 
-TDot is a small LMS done as a project work for Web Development Subject (Informatics Engineering - Polytechnic Institure of Braganca). 
+TDot is a small LMS done as a project work for Web Development Subject. 
 We started from Yii 2 Basic Project Template which is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
@@ -9,11 +9,10 @@ We added several features onto the basic template.
 
 GROUP 
 -----
-#### Group Number : 25 <br>
 #### Members :
-- Roshan Poudel (a40529)
-- Susan Babu Pandey (a40528)
-- Shailab Chapagain (a40534)
+- Roshan Poudel <https://github.com/gundruke>
+- Susan Babu Pandey (Me)
+- Shailab Chapagain 
 
 FEATURES
 ------------
