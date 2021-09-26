@@ -12,7 +12,7 @@ GROUP
 #### Members :
 - Roshan Poudel <https://github.com/gundruke>
 - Susan Babu Pandey (Me)
-- Shailab Chapagain 
+- Shailab Chapagain <https://github.com/shailabchapagain>
 
 FEATURES
 ------------
